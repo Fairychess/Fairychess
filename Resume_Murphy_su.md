@@ -1,0 +1,155 @@
+<center><img src="http://i1.piimg.com/567571/af0b10f3f3141c11.jpg" height="140" width="104" />
+</center>
+<center>
+# <b>苏柏玮</b>  
+  
+  三年项目管理经验和一年新区域业务拓展及BD经验  
+  
+  台湾工作经历，长期与海外客户合作经验  
+  
+  有大型政府标案项目经验  
+  
+  熟悉视频监控系统架构及音视频智能硬件供应链(芯片、方案/ODM/OEM)及软硬件整合项目管理。
+  <br/>
+  <br/>
+ <font color=#D3D3D3 >Project Manager & G.M. Special Assistant · 物联智慧股份有限公司  
+ ︳本科  ︳3年工作经验 ︳</font>
+</center>
+
+---
+
+
+# <b>联系方式</b>
+- 手机：<i>18576677430 </i>
+- Email：<i><u>theredesky@gmail.com</u></i>
+- QQ/微信号：<i>3129942969(QQ)/Chaoxinsane(Wechat) </i>
+
+---
+
+# <b>个人信息</b>
+
+ - 苏柏玮/男/1990 
+ - 本科/National Taiwan University(NTU),Psychology  
+(QS World University Rankings® 2015/16: 70) 
+ - 工作年限：3年
+
+
+---
+
+# <b>工作经历</b>
+
+<img src="http://i1.piimg.com/567571/d256fb0da4ab9086.png" height="98" width="228" />
+## 物联智慧股份有限公司 
+（ 2014年12月 ~ 至今 ）
+
+### 升任G.M. Special Assistant的過程  
+于2016年1月升任总经理特助(Report to Franklin)，原因如下：
+<br/>
+
+1.<b>解决分公司研发管理问题</b>  
+过去管理上业务不断接入Case，但后端常常会在项目中后期才发现资源不足，以及实际投入成本无法量法。因此我重新规定了各项目于Jira log填写细节，并藉由每日的stand-up meeting确实做工时log review和避免项目被Blocker Pending，并请同事根据我的Excel report设计将数据透过Jira上撷取出来。  
+  
+  [SZ Resource Plan_RD](http://pan.baidu.com/s/1hs7LTNe"SZ Resource Plan_RD")
+
+2.<b>华北区业务拓展的成绩</b>  
+过去公司只有在上海和深圳有分公司，且主要华南占据了中华区约8成营收，前营运长Willie指派同时能处理商务和项目管理能力的我至北京租屋做半年的新区域业务拓展，年度业绩为360万人民币，占中华区总营收约8%。
+
+3.<b>与重要合作伙伴AbleCloud签订战略合作协议</b>  
+我司虽然在音视频领域的智能硬件云服务方案有着高市场占有率，但于一般的智能硬件的市场开发一直停滞不前，鉴于华北市场的营销考量和提供更完整的解决方案考量，独自主导完成了与AbleCloud的合作协议，并于多个客户上实际项目落地。
+
+
+##<b>项目经历</b>
+
+### 一、Swann－Video Doorphone项目 
+Swann为美国TOP 1的DIY video surveillance品牌商，我于此项目担任项目经理，管理iOS/Android和云服务的开发，作为主要窗口与香港Firmware方案商和澳洲客户三方协调项目进展，解决了前任项目经理一直无法收案的问题。
+<br/>
+<br/>
+<b>1.国内无法正常使用GCM于Android上做Push Notification</b>
+
+我根据Devstore的市场占用率报告以及建立模拟测试的方式，决定最终导入了Jpush和Baidu Push最为最终方案，相较于原有的私有推送服务器提升了约28%的送达率，并与Jpush做后续的商务合作谈判降低运营成本。
+
+<br/>
+<b>2.视频传输在网络不稳下的严重卡顿问题</b>
+
+我根据过去做视频监控项目的经验提出动态调整FPS的方式，在网络状况不稳定造成Device buffer占用率提升时，分三种百分比降低FPS以保证视频传輸的流暢性，有效的解決客戶問題。
+
+[参考产品彩页](http://pan.baidu.com/s/1nvqGLSX "Swann DM")
+
+### 二、Swann－Battery Camera项目 
+我于此项目担任项目经理，管理iOS/Android和云服务的开发，作为主要窗口与深圳共進電子(OEM)和澳洲客户三方协调项目进展，並參與澳洲當地的測試與報告，由於此產品屬於市場最新需求，因此透過心跳包做短連結是公司新的嘗試，有許多問題需要釐清是軟硬件或Server所造成，主要克服難點如下：
+<br/>
+<br/>
+<b>1.釐清設備休眠喚醒失敗實際原因</b>  建立确认问题原因SOP流程以及量化验收标准，由于设备睡眠时会发心跳包到服务器报到，因此当App状态更新有误或不及时，需要透过SecureCRT先确认Device端问题，再透过Xshell登入各区Server确认log，并排除outlier后统计Latency平均时间是否达显著过长。
+<br/>
+<br/>
+<b>2.在将设备配网时Broadcom WiFi Chipset会崩溃</b>
+
+由于FAE仅能判断出客户端发送命令到一半时，对设备的Ping包会Lost，于是我先后提出了尝试透过将UDP封包间格从10ms拉长到80ms，以及利用Linux模拟APP客户端，逐一拆分CMD发送以确认崩溃实际原因，最后发现我们的SDK在某个API下会异常的反覆发送封包，造成WiFi Chipset处理不及而Memory leap。
+
+
+### 三、Eurotronic－Smart Home项目 
+我于此项目担任项目经理，管理iOS/Android和云服务的开发  
+此客户欧洲大型通路商，我于此项目担任项目经理，管理iOS/Android和云服务的开发，作为主要窗口并提供客户App开发的UX建议，目前每月约出货50K，关键点如下。
+<br/>
+<br/>
+<b>1.考量后续Sensor上市的可扩展性</b>  
+我认为SmartHome的套件不应该被单一受限的，因此一开始的App主页和CMD定制可扩充性便为首要考量，在产品开发前先定义专属的产品系列代码(Classcode)，并针对Sensor类型作区隔定义Sensor Type，最后再针对单品类和Gateway配件类别的产品做类型区别，以此最小化未来新产品添加时的开发量。
+
+<img src="http://p1.bqimg.com/567571/62d32e45d2f40766.png" height="200" width="100" /> 
+<img src="http://p1.bpimg.com/567571/f8ab5ecdce8b2a08.png" height="198" width="120" />
+<br/>
+<br/>
+<b>2.易用性－关于Smartlink的迷思</b>  
+许多客户认为现在芯片厂主推的Smartlink/SmartConfig的用户体验会很好，但实际上用户常常会因为在配网失败时难以了解是网络或是设备问题造成更多麻烦，因此我改以向客户提出直接透过UI上的设计，做4步骤的WiFi配置，也得到客户正向的认可。
+
+### 四、陕西省水务集团县城供水信息化项目 
+我于此项目担任项目经理，负责视频监控方案架构规划和总体设计，作为主要窗口与中电广通CEC、北京清控人居环境研究院、QingCloud合作提供陕西省水务集团完整的智慧水务设计方案，并于宁强县做试点建设。
+<br/>
+<br/>
+<b>1.项目成本和建设实施成果的平衡</b>  
+由于宁强省当地的网络及信息化建设都不足，各厂区也十分偏远，因此监控点的挑选上以及规格开立所后续影响的宽带需求及最终效果平衡点上，拿捏便十分重要。最终我还是决定采用本地化存储并与陕西移动合作使用3G的移动监控解决方案，以减少庞大的布线成本。
+<br/>
+<br/>
+<b>2.软件公司没有现成配套硬件</b>
+
+由于工程项目的利润主要是硬件溢价和后续的软件维护费用，既然我司负责视频监控方案若想利益最大化则需要把硬件也纳入在那，但当时没有现成合适的产品，因此我透过多个管道找了目前TOP 1且有Local support资源的海康做为合作伙伴，将我司的SDK embbed在绑规的设备内。
+
+[宁强独立实施方案](http://pan.baidu.com/s/1geJIZej "宁强独立实施方案")  
+[視頻監控网络图](http://pan.baidu.com/s/1cAadx8 "視頻監控网络图（20160102）")
+
+### <b>其他項目</b>
+
+Novatek－Video doorphone  
+(项目经理，此为直接与芯片原厂合作的Demo品项目)  
+地猫－SDG移动监控扫地机器人  
+(项目经理，负责替厂商寻找合适的方案商以及App设计建议，[京东众筹](http://z.jd.com/project/details/20467.html "众筹"))
+
+
+---  
+<br/>
+![](http://i1.piimg.com/567571/b509e1885ef2d993.png)
+
+## AGNI Technology INC.
+（ 2014年6月 ~ 2014年12月 ）
+
+### 台北市政府警察局「扩充建置台北市录像监视系统第二期工程」项目 
+我于此项目担任项目经理，负责SOW的编写以及样机测试的设计，此项目预算新台币 226,422,884 元 (含第一期工程系统整合、机房迁移计划、新设2200台摄像头工程)，为近5年台湾最高预算的视频监控项目，项目关键贡献如下。
+<br/>
+<br/>
+<b>1.透过样机测试计划的设计成功打败竞争厂商</b>   
+由业主得知第一期计划的验收过程因各地区警局对视频监控的监控点和画面表现各有意见造成验收延宕了近大半年，因此我根据EN50132的内容，提出了样机测试设计，并申请聘请英国的第三验证单位CCTV IN FOCUS LTD，对测试结果作公开认证，从计划书的设计编写到场地的选定以及英国验证人员的接待皆由我独立负责。
+
+[BMT Test Plan](http://pan.baidu.com/s/1i4W6d4h "bmt test plan v3.78")
+
+---
+
+## 演讲和讲义
+ - 7月公司内部分享：[编译码规则以及动态码流](http://pan.baidu.com/s/1dE4nYcL "新增编解码规则-深圳教育训练")
+ - 业务SOP讲义：[SOP订定](http://pan.baidu.com/s/1i5xA4vF"SOP")
+
+# 技能清单
+
+- Design：Axure
+- Project Management：Jira Agile
+
+
