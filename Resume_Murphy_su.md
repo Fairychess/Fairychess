@@ -79,7 +79,8 @@ Swann为美国TOP 1的DIY video surveillance品牌商，我于此项目担任项
 我于此项目担任项目经理，管理iOS/Android和云服务的开发，作为主要窗口与深圳共進電子(OEM)和澳洲客户三方协调项目进展，並參與澳洲當地的測試與報告，由於此產品屬於市場最新需求，因此透過心跳包做短連結是公司新的嘗試，有許多問題需要釐清是軟硬件或Server所造成，主要克服難點如下：
 <br/>
 <br/>
-<b>1.釐清設備休眠喚醒失敗實際原因</b>  建立确认问题原因SOP流程以及量化验收标准，由于设备睡眠时会发心跳包到服务器报到，因此当App状态更新有误或不及时，需要透过SecureCRT先确认Device端问题，再透过Xshell登入各区Server确认log，并排除outlier后统计Latency平均时间是否达显著过长。
+<b>1.釐清設備休眠喚醒失敗實際原因</b>  
+建立确认问题原因SOP流程以及量化验收标准，由于设备睡眠时会发心跳包到服务器报到，因此当App状态更新有误或不及时，需要透过SecureCRT先确认Device端问题，再透过Xshell登入各区Server确认log，并排除outlier后统计Latency平均时间是否达显著过长。
 <br/>
 <br/>
 <b>2.在将设备配网时Broadcom WiFi Chipset会崩溃</b>
