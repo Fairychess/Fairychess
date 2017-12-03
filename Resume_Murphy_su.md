@@ -1,4 +1,4 @@
-<center><img src="http://i1.piimg.com/567571/af0b10f3f3141c11.jpg" height="140" width="104" />
+<center><img src="http://i1.bvimg.com/621659/a12909e7c3a8b083.jpg" height="140" width="104" />
 </center>
 <center>
 # <b>苏柏玮</b>  
@@ -38,7 +38,7 @@
 <br/>
 # <b>工作经历</b>
 <br/>
-<img src="http://www.tietuku.com/1841abd769455cae" height="98" width="228" />
+<img src="http://i4.bvimg.com/621659/0f3a5d7b0caf298d.jpg" height="98" width="228" />
 ## 杭州海康威视数字技术股份有限公司 
 海外技术经理（ 2017年4月 ~ 至今 ）
 <br/>
