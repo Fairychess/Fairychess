@@ -38,7 +38,7 @@
 <br/>
 # <b>工作经历</b>
 <br/>
-<img src="http://i4.bvimg.com/621659/0f3a5d7b0caf298d.jp" height="204" width="28" />
+<img src="http://i4.bvimg.com/621659/0f3a5d7b0caf298d.jpg" height="204" width="28" />
 
 ## 杭州海康威视数字技术股份有限公司 ##
 <br>
@@ -96,7 +96,7 @@ Key account Manager ( 2014年12月 ~ 2015年12月 ）
 1.<b>解决分公司研发管理问题</b>  
 过去管理上业务不断接入Case，但后端常常会在项目中后期才发现资源不足，以及实际投入成本无法量法。因此我重新规定了各项目于Jira log填写细节，并藉由每日的stand-up meeting确实做工时log review和避免项目被Blocker Pending，并请同事根据我的Excel report设计将数据透过Jira上撷取出来。  
   
-  [SZ Resource Plan_RD](http://pan.baidu.com/s/1hs7LTNe"SZ Resource Plan_RD")
+  [SZ Resource Plan_RD](http://pan.baidu.com/s/1hs7LTNe "SZ Resource Plan_RD")
 
 2.<b>华北区业务拓展的成绩</b>  
 过去公司只有在上海和深圳有分公司，且主要华南占据了中华区约8成营收，前营运长Willie指派同时能处理商务和项目管理能力的我至北京租屋做半年的新区域业务拓展，年度业绩为360万人民币，占中华区总营收约8%。
