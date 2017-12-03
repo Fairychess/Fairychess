@@ -82,6 +82,7 @@
 ---
 <br/>
 <img src="http://i1.piimg.com/567571/d256fb0da4ab9086.png" height="98" width="228" />
+<br/>
 ## 物联智慧股份有限公司 ##
 <br/>
 Project manager&G.M. Special Assistant（ 2015年12月 ~ 2017年3月 ）
@@ -223,7 +224,6 @@ Project manager（ 2014年6月 ~ 2014年12月 ）
 <br/>
 
 ## 中华民国内政部 ##
-<br/>
 <br/>
 专长替代役 （ 2013年6月 ~ 2014年6月 ）
 <br/>
