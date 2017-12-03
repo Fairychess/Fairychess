@@ -81,8 +81,9 @@
 
 ---
 <br/>
-<img src="http://i1.piimg.com/567571/d256fb0da4ab9086.png" height="98" width="228" />
 <br/>
+<img src="http://i1.piimg.com/567571/d256fb0da4ab9086.png" height="98" width="228" />
+
 ## 物联智慧股份有限公司 ##
 <br/>
 Project manager&G.M. Special Assistant（ 2015年12月 ~ 2017年3月 ）
