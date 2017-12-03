@@ -38,9 +38,10 @@
 <br/>
 # <b>工作经历</b>
 <br/>
-![](http://i4.bvimg.com/621659/0f3a5d7b0caf298d.jpg)
+<img src="http://i4.bvimg.com/621659/0f3a5d7b0caf298d.jp" height="204" width="28" />
 
 ## 杭州海康威视数字技术股份有限公司 ##
+<br>
 海外技术经理（ 2017年4月 ~ 至今 ）
 <br/>
 1.海外重大项目(100万美金以上)风险及技术可行性评估
@@ -71,6 +72,7 @@
 <br/>
 <img src="http://i1.piimg.com/567571/d256fb0da4ab9086.png" height="98" width="228" />
 ## 物联智慧股份有限公司 ##
+<br/>
 Project manager&G.M. Special Assistant（ 2015年12月 ~ 2017年3月 ）
 <br/>
 1、负责项目规划及产品发展方向的整体把握和工作部署，结合公司发展战略，全面策划及统筹产品的发展规划，明晰定位、目标、策略并落实、实施。 
@@ -173,9 +175,10 @@ Novatek－Video doorphone
 
 ---  
 <br/>
-![](http://i1.piimg.com/567571/b509e1885ef2d993.png)
+<img src="http://i1.piimg.com/567571/b509e1885ef2d993.png" height="98" width="228" />
 
-## AGNI Technology INC.
+## AGNI Technology INC.##
+<br/>
 Project manager（ 2014年6月 ~ 2014年12月 ）
 <br/>
 1、负责平安城市、智能停车场、智慧机场方案的架构规划和总体设计 
@@ -196,6 +199,7 @@ Project manager（ 2014年6月 ~ 2014年12月 ）
 ---
 <br/>
 ## 中华民国内政部 ##
+<br/>
 专长替代役 （ 2013年6月 ~ 2014年6月 ）
 <br/>
 <b>1.义务兵役</b> 
@@ -204,6 +208,7 @@ Project manager（ 2014年6月 ~ 2014年12月 ）
 ---
 <br/>
 ## 华南证券投资顾问有限公司 ##
+<br/>
 实习行业分析师（ 2012年12月 ~ 2013年6月 ） 
 <br/>
 1、消费性电子产业（智能硬件、视频监控）等行业研究，了解前沿市场和技术演进 
